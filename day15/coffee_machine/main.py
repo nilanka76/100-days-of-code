@@ -1,4 +1,4 @@
-from menu import MENU, resources
+from coffee_menu import MENU, resources
 
 WATER = resources['water']
 MILK = resources['milk']
